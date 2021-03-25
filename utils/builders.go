@@ -1,7 +1,7 @@
 package utils
 
 import (
-	"github.com/agk/specialist/c2/hw2/handlers"
+	"github.com/agk/specialist/c2/sm/handlers"
 	"github.com/gorilla/mux"
 )
 

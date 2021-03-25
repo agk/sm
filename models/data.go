@@ -1,8 +1,10 @@
 package models
+
 import (
 	"log"
 	"math"
 )
+
 var DB []Item
 
 type Item struct {

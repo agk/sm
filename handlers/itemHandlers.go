@@ -7,14 +7,13 @@ import (
 	"net/http"
 	// "math"
 
-	"github.com/agk/specialist/c2/hw2/models"
+	"github.com/agk/specialist/c2/sm/models"
 	//"github.com/gorilla/mux"
 )
 
 func initHeaders(writer http.ResponseWriter) {
 	writer.Header().Set("Content-Type", "application/json")
 }
-
 
 func Grab(writer http.ResponseWriter, request *http.Request) {
 	initHeaders(writer)

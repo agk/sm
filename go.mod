@@ -1,4 +1,4 @@
-module github.com/agk/specialist/c2/hw2
+module github.com/agk/specialist/c2/sm
 
 go 1.15
 

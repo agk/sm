@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/agk/specialist/c2/hw2/utils"
+	"github.com/agk/specialist/c2/sm/utils"
 	"github.com/gorilla/mux"
 	"github.com/joho/godotenv"
 )
